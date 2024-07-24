@@ -10,6 +10,7 @@ const page = await browser.newPage();
 await page.goto(URL);
 let viewMoreButton = await page.$(`text=${VIEW_MORE}`);
 
+console.log("[1/4] Clicking view more button");
 // click view more button
 while (viewMoreButton) {
   await viewMoreButton.click();
@@ -17,11 +18,13 @@ while (viewMoreButton) {
   viewMoreButton = await page.$(`text=${VIEW_MORE}`);
 }
 
+console.log("[2/4] Expanding all items");
 const items = await page.$$eval(".rc-collapse-item", (elements) => {
   return elements.map((element) => {
     const expand = element.querySelector(".rc-collapse-expand-icon");
     expand.click();
 
+    console.log("[3/4] Scraping data");
     const title = element.querySelector("a");
     const items = [];
 
@@ -46,4 +49,7 @@ const items = await page.$$eval(".rc-collapse-item", (elements) => {
   });
 });
 
+console.log("[4/4] Writing data to file");
 fs.writeFile("data.json", JSON.stringify(items, null, 2));
+
+await browser.close();
