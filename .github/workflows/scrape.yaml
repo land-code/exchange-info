@@ -12,30 +12,32 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Go to scrape directory
-        run: cd scrape
-
       - uses: pnpm/action-setup@v4
         name: Install pnpm
+        working-directory: ./scrape
         with:
           version: 8
           run_install: false
 
       - name: Install Node.js
         uses: actions/setup-node@v4
+        working-directory: ./scrape
         with:
           node-version: 20
           cache: "pnpm"
 
       - name: Install dependencies
+        working-directory: ./scrape
         run: |
           pnpm install
           pnpm playwright install chromium
 
       - name: Run script
+        working-directory: ./scrape
         run: pnpm run scrape
 
       - name: Commit and push changes
+        working-directory: ./scrape
         run: |
           git config --global user.name "[bot] Exchange info"
           git config --global user.email "bot@exchanges-info.com"
