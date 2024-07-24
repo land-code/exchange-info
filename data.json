@@ -1,0 +1,184 @@
+[
+  {
+    "name": "ETH",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "1.04%Máximo",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      },
+      {
+        "name": "Stake de ETH",
+        "APR": "3.06%",
+        "duration": "Fijo",
+        "isProtectedCapital": false
+      }
+    ]
+  },
+  {
+    "name": "USDC",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "1.87%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "USDT",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "2.97%~2.3%",
+        "duration": "Flexible/Fijo",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "FDUSD",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "0.97%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "BNB",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "0.34%~0.05%",
+        "duration": "Flexible/Fijo",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "EOS",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "23%~8.18%",
+        "duration": "Flexible/Fijo",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "SOL",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "5.6%~0.26%",
+        "duration": "Flexible/Fijo",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "WBETH",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "3.06%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "SUI",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "2.9%~0.37%",
+        "duration": "Flexible/Fijo",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "OM",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "19.9%~4.41%",
+        "duration": "Flexible/Fijo",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "OMNI",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "7.9%~0.32%",
+        "duration": "Flexible/Fijo",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "MANTA",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "0.64%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "INJ",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "9.9%~0.97%",
+        "duration": "Flexible/Fijo",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "TIA",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "10%~2.39%",
+        "duration": "Flexible/Fijo",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "DOT",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "11.9%~0.51%",
+        "duration": "Flexible/Fijo",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "SEI",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "4.1%~0.22%",
+        "duration": "Flexible/Fijo",
+        "isProtectedCapital": true
+      }
+    ]
+  }
+]
