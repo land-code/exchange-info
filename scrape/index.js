@@ -3,9 +3,9 @@ import fs from "fs/promises";
 
 const URL = "https://www.binance.com/es/earn";
 const VIEW_MORE = "Ver más";
-const ALL_PRODUCTS = "Todos los productos";
 
-const browser = await chromium.launch({ headless: false });
+const browser = await chromium.launch();
+
 const page = await browser.newPage();
 await page.goto(URL);
 let viewMoreButton = await page.$(`text=${VIEW_MORE}`);
