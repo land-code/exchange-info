@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 6 * * *"
 
 jobs:
   scrape:
@@ -32,10 +32,17 @@ jobs:
       - name: Run script
         run: pnpm run scrape
 
-      - name: Commit and push changes
+      - name: Check for changes
         run: |
           git config --global user.name "[bot] Exchange info"
           git config --global user.email "bot@exchanges-info.com"
           git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+      - name: Commit and push changes
+        run: |
           git commit -m "Update exchange info"
           git push
