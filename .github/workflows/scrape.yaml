@@ -7,6 +7,9 @@ on:
 
 jobs:
   scrape:
+    defaults:
+      run:
+        working-directory: ./scrape
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -25,17 +28,14 @@ jobs:
           cache: "pnpm"
 
       - name: Install dependencies
-        working-directory: ./scrape
         run: |
           pnpm install
           pnpm playwright install chromium
 
       - name: Run script
-        working-directory: ./scrape
         run: pnpm run scrape
 
       - name: Commit and push changes
-        working-directory: ./scrape
         run: |
           git config --global user.name "[bot] Exchange info"
           git config --global user.email "bot@exchanges-info.com"
