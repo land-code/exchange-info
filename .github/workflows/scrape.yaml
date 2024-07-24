@@ -7,9 +7,6 @@ on:
 
 jobs:
   scrape:
-    defaults:
-      run:
-        working-directory: ./scrape
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
