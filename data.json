@@ -4,13 +4,13 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.03%Máximo",
+        "APR": "1.07%Máximo",
         "duration": "Flexible",
         "isProtectedCapital": true
       },
       {
         "name": "Stake de ETH",
-        "APR": "4.2%",
+        "APR": "8.07%",
         "duration": "Fijo",
         "isProtectedCapital": false
       }
@@ -21,7 +21,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.95%",
+        "APR": "2.05%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -32,7 +32,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.8%~2.22%",
+        "APR": "1.8%~2.23%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -43,7 +43,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "11.37%Máximo",
+        "APR": "11.38%Máximo",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -65,7 +65,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "5.75%~19.9%",
+        "APR": "5.82%~19.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -76,7 +76,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.59%~5.6%",
+        "APR": "0.55%~5.6%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -87,7 +87,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "4.2%",
+        "APR": "8.07%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -98,7 +98,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.53%~2.9%",
+        "APR": "0.54%~2.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -109,7 +109,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.83%~19.9%",
+        "APR": "1.1%~19.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -131,7 +131,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.25%",
+        "APR": "1.05%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -142,7 +142,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.46%~9.9%",
+        "APR": "1.47%~9.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
