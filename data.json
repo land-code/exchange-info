@@ -21,7 +21,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.98%",
+        "APR": "1.91%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -32,7 +32,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.78%",
+        "APR": "1.8%~1.81%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -65,7 +65,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "5.99%",
+        "APR": "5.97%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -76,7 +76,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.35%",
+        "APR": "0.39%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -98,7 +98,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.09%~1.13%",
+        "APR": "1.09%~1.29%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -109,7 +109,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.84%",
+        "APR": "0.75%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -131,7 +131,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.93%",
+        "APR": "0.92%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -142,7 +142,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.39%",
+        "APR": "1.4%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -153,7 +153,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "4.5%~7.04%",
+        "APR": "4.5%~6.98%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -164,7 +164,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.98%",
+        "APR": "1.02%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
