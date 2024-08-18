@@ -4,7 +4,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.34%",
+        "APR": "0.32%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -26,7 +26,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.5%~1.71%",
+        "APR": "1.5%~1.7%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -37,7 +37,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "2.25%",
+        "APR": "2.26%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -48,7 +48,7 @@
     "items": [
       {
         "name": "Simple EarnRecompensas de LaunchpoolAl suscribir BNB a los productos de Simple Earn, podrás recibir recompensas de Launchpool. Reclama tus recompensas desde la página de Launchpool.",
-        "APR": "7.88%~8.05%",
+        "APR": "7.85%~8.02%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": false
       }
@@ -59,7 +59,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.98%Máximo",
+        "APR": "0.99%Máximo",
         "duration": "Flexible",
         "isProtectedCapital": true
       },
@@ -76,7 +76,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.35%",
+        "APR": "0.34%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -120,7 +120,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.48%",
+        "APR": "0.49%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -164,7 +164,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.99%",
+        "APR": "0.98%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -175,7 +175,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.9%~5.5%",
+        "APR": "1.9%~5.45%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
