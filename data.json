@@ -4,7 +4,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.36%",
+        "APR": "0.34%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -15,7 +15,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.98%",
+        "APR": "1.99%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -38,7 +38,7 @@
       {
         "name": "Simple Earn",
         "APR": "2.25%",
-        "duration": "Flexible/Fijo",
+        "duration": "Flexible",
         "isProtectedCapital": true
       }
     ]
@@ -48,7 +48,7 @@
     "items": [
       {
         "name": "Simple EarnRecompensas de LaunchpoolAl suscribir BNB a los productos de Simple Earn, podrás recibir recompensas de Launchpool. Reclama tus recompensas desde la página de Launchpool.",
-        "APR": "7.78%~7.95%",
+        "APR": "7.88%~8.05%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": false
       }
@@ -59,7 +59,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.01%Máximo",
+        "APR": "0.98%Máximo",
         "duration": "Flexible",
         "isProtectedCapital": true
       },
@@ -131,7 +131,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.66%",
+        "APR": "0.64%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -175,7 +175,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.9%~5.44%",
+        "APR": "1.9%~5.5%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
