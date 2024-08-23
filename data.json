@@ -15,7 +15,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.98%",
+        "APR": "2%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -26,7 +26,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.5%~1.73%",
+        "APR": "1.5%~1.69%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -37,7 +37,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "4.57%",
+        "APR": "4.61%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -48,7 +48,7 @@
     "items": [
       {
         "name": "Simple EarnRecompensas de LaunchpoolAl suscribir BNB a los productos de Simple Earn, podrás recibir recompensas de Launchpool. Reclama tus recompensas desde la página de Launchpool.",
-        "APR": "3.74%~4.03%",
+        "APR": "7.6%~7.89%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": false
       }
@@ -59,7 +59,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.13%Máximo",
+        "APR": "0.99%Máximo",
         "duration": "Flexible",
         "isProtectedCapital": true
       },
@@ -76,7 +76,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.31%~5.6%",
+        "APR": "0.32%~5.6%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -98,7 +98,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.36%~2.9%",
+        "APR": "0.34%~2.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -120,7 +120,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.42%~7.9%",
+        "APR": "0.43%~7.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -142,7 +142,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.39%~9.9%",
+        "APR": "1.35%~9.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
