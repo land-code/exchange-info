@@ -4,8 +4,8 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.27%",
-        "duration": "Flexible",
+        "APR": "0.27%~29.9%",
+        "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
     ]
@@ -15,7 +15,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "2.2%",
+        "APR": "2.21%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -26,7 +26,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.5%~1.71%",
+        "APR": "1.5%~1.7%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -37,7 +37,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "3.74%~15.9%",
+        "APR": "3.75%~15.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -48,7 +48,7 @@
     "items": [
       {
         "name": "Simple EarnRecompensas de LaunchpoolAl suscribir BNB a los productos de Simple Earn, podrás recibir recompensas de Launchpool. Reclama tus recompensas desde la página de Launchpool.",
-        "APR": "6.63%~6.92%",
+        "APR": "6.69%~6.98%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": false
       }
@@ -59,7 +59,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.16%Máximo",
+        "APR": "1.15%Máximo",
         "duration": "Flexible",
         "isProtectedCapital": true
       },
@@ -109,7 +109,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.09%~19.9%",
+        "APR": "1.04%~19.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -142,7 +142,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.05%~9.9%",
+        "APR": "1.03%~9.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -164,7 +164,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.63%~10.9%",
+        "APR": "0.62%~10.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
