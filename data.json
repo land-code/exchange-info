@@ -21,7 +21,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.5%~1.71%",
+        "APR": "1.5%~1.74%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -59,10 +59,10 @@
     "name": "BNB",
     "items": [
       {
-        "name": "Simple Earn",
+        "name": "Simple EarnPróximo LaunchpoolLos activos de BNB suscritos participarán automáticamente en las recompensas de Launchpool y de farming.",
         "APR": "0.05%~0.34%",
         "duration": "Flexible/Fijo",
-        "isProtectedCapital": true
+        "isProtectedCapital": false
       }
     ]
   },
@@ -71,7 +71,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "2.08%",
+        "APR": "2.06%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -93,7 +93,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "6.39%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
+        "APR": "6.41%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -104,7 +104,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.52%~2.9%",
+        "APR": "0.5%~2.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -115,7 +115,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "3.84%~19.9%",
+        "APR": "4.04%~19.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
