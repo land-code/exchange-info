@@ -1,5 +1,16 @@
 [
   {
+    "name": "BNB",
+    "items": [
+      {
+        "name": "Simple EarnPróximo LaunchpoolLos activos de BNB suscritos participarán automáticamente en las recompensas de Launchpool y de farming.",
+        "APR": "0.05%~0.34%",
+        "duration": "Flexible/Fijo",
+        "isProtectedCapital": false
+      }
+    ]
+  },
+  {
     "name": "SOL",
     "items": [
       {
@@ -21,7 +32,18 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.5%~1.74%",
+        "APR": "1.5%~1.76%",
+        "duration": "Flexible/Fijo",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "FDUSD",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "0.75%~15.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -45,33 +67,11 @@
     ]
   },
   {
-    "name": "FDUSD",
-    "items": [
-      {
-        "name": "Simple Earn",
-        "APR": "0.67%~15.9%",
-        "duration": "Flexible/Fijo",
-        "isProtectedCapital": true
-      }
-    ]
-  },
-  {
-    "name": "BNB",
-    "items": [
-      {
-        "name": "Simple EarnPróximo LaunchpoolLos activos de BNB suscritos participarán automáticamente en las recompensas de Launchpool y de farming.",
-        "APR": "0.05%~0.34%",
-        "duration": "Flexible/Fijo",
-        "isProtectedCapital": false
-      }
-    ]
-  },
-  {
     "name": "USDC",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "2.06%",
+        "APR": "2.11%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -115,7 +115,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "4.04%~19.9%",
+        "APR": "4.05%~19.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
