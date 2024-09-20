@@ -1,5 +1,16 @@
 [
   {
+    "name": "CATI",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "0.05%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
     "name": "ETH",
     "items": [
       {
@@ -49,7 +60,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.16%",
+        "APR": "1.07%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -60,7 +71,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.5%~2.89%",
+        "APR": "1.5%~2.88%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -71,7 +82,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "2.92%",
+        "APR": "2.89%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -115,7 +126,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.09%~2.9%",
+        "APR": "1.08%~2.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -126,7 +137,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "4.06%~19.9%",
+        "APR": "2.82%~19.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -148,7 +159,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.59%",
+        "APR": "0.56%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -159,7 +170,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.56%~8.9%",
+        "APR": "0.54%~8.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -170,7 +181,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "4%~9.7%",
+        "APR": "4%~9.69%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -192,7 +203,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.71%~4.1%",
+        "APR": "1.49%~4.1%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
