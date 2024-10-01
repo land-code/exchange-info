@@ -49,7 +49,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "2.8%~3.88%",
+        "APR": "3.1%~3.96%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -60,18 +60,18 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "5.18%",
+        "APR": "5.23%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
     ]
   },
   {
-    "name": "FDUSD",
+    "name": "EURI",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.75%",
+        "APR": "8.17%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -89,34 +89,23 @@
     ]
   },
   {
-    "name": "CATI",
-    "items": [
-      {
-        "name": "Simple Earn",
-        "APR": "0.78%",
-        "duration": "Flexible",
-        "isProtectedCapital": true
-      }
-    ]
-  },
-  {
     "name": "SLF",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "5.79%~18.9%",
+        "APR": "5.93%~18.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
     ]
   },
   {
-    "name": "SUI",
+    "name": "ARK",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.72%~2.9%",
-        "duration": "Flexible/Fijo",
+        "APR": "14.9%",
+        "duration": "Flexible",
         "isProtectedCapital": true
       }
     ]
@@ -126,19 +115,19 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.2%~19.9%",
+        "APR": "1.41%~19.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
     ]
   },
   {
-    "name": "OMNI",
+    "name": "HMSTR",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.32%~4.9%",
-        "duration": "Flexible/Fijo",
+        "APR": "0.44%",
+        "duration": "Flexible",
         "isProtectedCapital": true
       }
     ]
@@ -155,12 +144,12 @@
     ]
   },
   {
-    "name": "INJ",
+    "name": "JUP",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.46%~8.9%",
-        "duration": "Flexible/Fijo",
+        "APR": "6.98%",
+        "duration": "Flexible",
         "isProtectedCapital": true
       }
     ]
@@ -171,17 +160,6 @@
       {
         "name": "Simple Earn",
         "APR": "4%~9%",
-        "duration": "Flexible/Fijo",
-        "isProtectedCapital": true
-      }
-    ]
-  },
-  {
-    "name": "DOT",
-    "items": [
-      {
-        "name": "Simple Earn",
-        "APR": "0.46%~10.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
