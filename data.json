@@ -27,7 +27,7 @@
       },
       {
         "name": "Stake de ETH",
-        "APR": "2.98%",
+        "APR": "2.93%",
         "duration": "Fijo",
         "isProtectedCapital": true
       }
@@ -49,7 +49,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "3.08%~3.1%",
+        "APR": "2.98%~3.1%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -60,7 +60,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "4.6%",
+        "APR": "5.15%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -93,7 +93,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.77%",
+        "APR": "1.97%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -104,7 +104,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "6.05%~18.9%",
+        "APR": "6.09%~18.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -115,7 +115,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "14.94%",
+        "APR": "14.97%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -126,7 +126,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.95%~19.9%",
+        "APR": "1.84%~19.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -148,7 +148,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.53%",
+        "APR": "0.56%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -170,7 +170,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "4%~9.51%",
+        "APR": "4%~9.71%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -181,7 +181,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.47%~4.1%",
+        "APR": "1.84%~4.1%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
