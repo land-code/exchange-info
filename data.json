@@ -4,7 +4,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.36%~5.6%",
+        "APR": "0.28%~5.6%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       },
@@ -39,7 +39,7 @@
       {
         "name": "Simple EarnRecompensas de LaunchpoolAl suscribir BNB a los productos de Simple Earn, podrás recibir recompensas de Launchpool. Reclama tus recompensas desde la página de Launchpool.",
         "APR": "0.05%~0.34%",
-        "duration": "Fijo",
+        "duration": "Flexible/Fijo",
         "isProtectedCapital": false
       }
     ]
@@ -49,7 +49,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "2.3%~2.98%",
+        "APR": "2.3%~3.01%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -60,7 +60,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "6.23%",
+        "APR": "6.44%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -93,7 +93,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.12%",
+        "APR": "1.24%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -104,7 +104,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "6.73%~18.9%",
+        "APR": "6.84%~18.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -115,7 +115,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "14.96%",
+        "APR": "14.88%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -137,7 +137,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.43%",
+        "APR": "0.66%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -159,7 +159,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "7%",
+        "APR": "7.01%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -170,7 +170,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "4%~10%",
+        "APR": "4%~10.66%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -181,7 +181,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.75%~4.1%",
+        "APR": "1.71%~4.1%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
