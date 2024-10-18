@@ -4,7 +4,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "10.3%",
+        "APR": "10.36%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -21,7 +21,7 @@
       },
       {
         "name": "Stake de SOL",
-        "APR": "10.29%",
+        "APR": "10.35%",
         "duration": "Fijo",
         "isProtectedCapital": false
       }
@@ -60,7 +60,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "4%~6%",
+        "APR": "4%~5.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -71,7 +71,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "4.34%",
+        "APR": "4.11%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -104,7 +104,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.16%",
+        "APR": "1.57%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -115,7 +115,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "7.7%~18.9%",
+        "APR": "7.74%~18.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -126,7 +126,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "22.73%",
+        "APR": "21.66%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -137,7 +137,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.68%~19.9%",
+        "APR": "1.72%~19.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -170,7 +170,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "14.41%",
+        "APR": "12.74%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -181,7 +181,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "4%~17.49%",
+        "APR": "4%~17.75%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
