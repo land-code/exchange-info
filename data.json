@@ -4,7 +4,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "3.74%~4%",
+        "APR": "3.72%~4%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -15,7 +15,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "3.93%",
+        "APR": "4.01%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -76,7 +76,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.57%~5.6%",
+        "APR": "0.6%~5.6%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       },
@@ -104,7 +104,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "8.1%",
+        "APR": "8.14%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -115,7 +115,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "4%~11.97%",
+        "APR": "4%~11.75%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -126,7 +126,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.4%~10%",
+        "APR": "1.41%~10%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -137,7 +137,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.77%~19.9%",
+        "APR": "0.76%~19.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -148,7 +148,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "6.07%~19.9%",
+        "APR": "4.66%~19.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -159,7 +159,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.57%",
+        "APR": "0.56%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -181,7 +181,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "4.55%",
+        "APR": "3.07%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
