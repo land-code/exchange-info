@@ -1,10 +1,115 @@
 [
   {
+    "name": "KAIA",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "0%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "USDT",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "4.7%~10.94%",
+        "duration": "Flexible/Fijo",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "USDC",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "4.57%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "BTC",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "0.28%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "ETH",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "1.2%~1.5%",
+        "duration": "Flexible/Fijo",
+        "isProtectedCapital": true
+      },
+      {
+        "name": "Stake de ETH",
+        "APR": "2.95%",
+        "duration": "Fijo",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "BNB",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "0.05%~0.28%",
+        "duration": "Flexible/Fijo",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
     "name": "BNSOL",
     "items": [
       {
         "name": "Simple Earn",
         "APR": "9.97%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "EURI",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "7.98%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "SXP",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "16.24%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "ACH",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "20.27%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -22,34 +127,12 @@
     ]
   },
   {
-    "name": "EURI",
+    "name": "OM",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "7.93%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
-        "duration": "Flexible",
-        "isProtectedCapital": true
-      }
-    ]
-  },
-  {
-    "name": "SXP",
-    "items": [
-      {
-        "name": "Simple Earn",
-        "APR": "14.33%",
-        "duration": "Flexible",
-        "isProtectedCapital": true
-      }
-    ]
-  },
-  {
-    "name": "ACH",
-    "items": [
-      {
-        "name": "Simple Earn",
-        "APR": "20.28%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
-        "duration": "Flexible",
+        "APR": "4.07%~19.9%",
+        "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
     ]
@@ -59,19 +142,8 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "12.91%",
+        "APR": "15.29%",
         "duration": "Flexible",
-        "isProtectedCapital": true
-      }
-    ]
-  },
-  {
-    "name": "OM",
-    "items": [
-      {
-        "name": "Simple Earn",
-        "APR": "4.06%~19.9%",
-        "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
     ]
@@ -83,28 +155,6 @@
         "name": "Simple Earn",
         "APR": "11.04%",
         "duration": "Flexible",
-        "isProtectedCapital": true
-      }
-    ]
-  },
-  {
-    "name": "MANTA",
-    "items": [
-      {
-        "name": "Simple Earn",
-        "APR": "0.97%",
-        "duration": "Flexible",
-        "isProtectedCapital": true
-      }
-    ]
-  },
-  {
-    "name": "SEI",
-    "items": [
-      {
-        "name": "Simple Earn",
-        "APR": "0.98%~4.2%",
-        "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
     ]
