@@ -4,19 +4,19 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "9.04%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
+        "APR": "10.08%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
     ]
   },
   {
-    "name": "USDC",
+    "name": "FDUSD",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "3%",
-        "duration": "Flexible",
+        "APR": "0.47%~16.2%",
+        "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
     ]
@@ -37,7 +37,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.25%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
+        "APR": "1.26%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
         "duration": "Flexible",
         "isProtectedCapital": true
       },
@@ -61,33 +61,11 @@
     ]
   },
   {
-    "name": "BNSOL",
-    "items": [
-      {
-        "name": "Simple Earn",
-        "APR": "8.13%",
-        "duration": "Flexible",
-        "isProtectedCapital": true
-      }
-    ]
-  },
-  {
     "name": "EURI",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "8.03%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
-        "duration": "Flexible",
-        "isProtectedCapital": true
-      }
-    ]
-  },
-  {
-    "name": "FDUSD",
-    "items": [
-      {
-        "name": "Simple Earn",
-        "APR": "0.46%",
+        "APR": "8.04%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -98,51 +76,62 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "20.22%",
+        "APR": "20.28%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
     ]
   },
   {
-    "name": "ACH",
+    "name": "FIL",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "20.27%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
-        "duration": "Flexible",
-        "isProtectedCapital": true
-      }
-    ]
-  },
-  {
-    "name": "PEPE",
-    "items": [
-      {
-        "name": "Simple Earn",
-        "APR": "9.05%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
-        "duration": "Flexible",
-        "isProtectedCapital": true
-      }
-    ]
-  },
-  {
-    "name": "OM",
-    "items": [
-      {
-        "name": "Simple Earn",
-        "APR": "3.93%~19.9%",
+        "APR": "2.08%~3.79%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
     ]
   },
   {
-    "name": "OG",
+    "name": "ENA",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "9.48%",
+        "APR": "9.6%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "AXS",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "7.72%~18.9%",
+        "duration": "Flexible/Fijo",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "RDNT",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "6.24%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "CATI",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "9.69%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
