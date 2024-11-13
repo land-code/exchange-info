@@ -4,7 +4,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "5.3%~15.26%",
+        "APR": "5.3%~15.45%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -15,7 +15,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.42%~16.2%",
+        "APR": "1.43%~16.2%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -26,7 +26,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "0.29%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
+        "APR": "0.28%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -37,7 +37,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.69%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
+        "APR": "1.67%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
         "duration": "Flexible",
         "isProtectedCapital": true
       },
@@ -65,18 +65,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "9.84%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
-        "duration": "Flexible",
-        "isProtectedCapital": true
-      }
-    ]
-  },
-  {
-    "name": "SXP",
-    "items": [
-      {
-        "name": "Simple Earn",
-        "APR": "15.38%",
+        "APR": "9.89%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -94,11 +83,44 @@
     ]
   },
   {
+    "name": "PEPE",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "9.04%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "SXP",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "15.02%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "ARK",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "23.28%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
     "name": "ENA",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "6.9%",
+        "APR": "6.97%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -109,7 +131,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "5.09%~18.9%",
+        "APR": "5.04%~18.9%",
         "duration": "Flexible/Fijo",
         "isProtectedCapital": true
       }
@@ -120,7 +142,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "3.67%",
+        "APR": "3.99%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -131,18 +153,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.7%",
-        "duration": "Flexible",
-        "isProtectedCapital": true
-      }
-    ]
-  },
-  {
-    "name": "ACT",
-    "items": [
-      {
-        "name": "Simple Earn",
-        "APR": "3.58%",
+        "APR": "1.73%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -153,7 +164,18 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "6.74%",
+        "APR": "5.53%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "ACT",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "1.63%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
