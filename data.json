@@ -1,21 +1,21 @@
 [
   {
-    "name": "USDT",
+    "name": "USDC",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "6.2%~14.88%",
-        "duration": "Flexible/Bloqueado",
+        "APR": "8.14%",
+        "duration": "Flexible",
         "isProtectedCapital": true
       }
     ]
   },
   {
-    "name": "USDC",
+    "name": "USDT",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "8.17%",
+        "APR": "16.33%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -26,7 +26,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.67%~16.2%",
+        "APR": "1.74%~16.2%",
         "duration": "Flexible/Bloqueado",
         "isProtectedCapital": true
       }
@@ -48,7 +48,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.66%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
+        "APR": "1.65%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
         "duration": "Flexible",
         "isProtectedCapital": true
       },
@@ -65,41 +65,47 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "8.13%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
+        "APR": "7.72%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
     ]
   },
   {
-    "name": "FIL",
+    "name": "GLM",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "2.14%~3.79%",
+        "APR": "32.23%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "SOL",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "0.67%~5.6%",
         "duration": "Flexible/Bloqueado",
         "isProtectedCapital": true
+      },
+      {
+        "name": "Stake de SOL",
+        "APR": "8.96%",
+        "duration": "Bloqueado",
+        "isProtectedCapital": false
       }
     ]
   },
   {
-    "name": "AGLD",
+    "name": "COS",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "6.5%",
-        "duration": "Flexible",
-        "isProtectedCapital": true
-      }
-    ]
-  },
-  {
-    "name": "T",
-    "items": [
-      {
-        "name": "Simple Earn",
-        "APR": "17.72%",
-        "duration": "Flexible",
+        "APR": "4.9%~13.72%",
+        "duration": "Flexible/Bloqueado",
         "isProtectedCapital": true
       }
     ]
@@ -116,22 +122,11 @@
     ]
   },
   {
-    "name": "PEPE",
-    "items": [
-      {
-        "name": "Simple Earn",
-        "APR": "0.03%",
-        "duration": "Flexible",
-        "isProtectedCapital": true
-      }
-    ]
-  },
-  {
     "name": "STPT",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "12.52%",
+        "APR": "12.58%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -142,18 +137,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "5.83%",
-        "duration": "Flexible",
-        "isProtectedCapital": true
-      }
-    ]
-  },
-  {
-    "name": "HIVE",
-    "items": [
-      {
-        "name": "Simple Earn",
-        "APR": "9.74%",
+        "APR": "9.44%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -164,29 +148,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "32.65%",
-        "duration": "Flexible",
-        "isProtectedCapital": true
-      }
-    ]
-  },
-  {
-    "name": "PNUT",
-    "items": [
-      {
-        "name": "Simple Earn",
-        "APR": "0.88%",
-        "duration": "Flexible",
-        "isProtectedCapital": true
-      }
-    ]
-  },
-  {
-    "name": "ACT",
-    "items": [
-      {
-        "name": "Simple Earn",
-        "APR": "0.81%",
+        "APR": "37.62%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
