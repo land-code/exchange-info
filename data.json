@@ -4,18 +4,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "17.04%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
-        "duration": "Flexible",
-        "isProtectedCapital": true
-      }
-    ]
-  },
-  {
-    "name": "THE",
-    "items": [
-      {
-        "name": "Simple Earn",
-        "APR": "0.37%",
+        "APR": "16.76%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -26,7 +15,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "8.5%~20.79%",
+        "APR": "8.5%~19.68%",
         "duration": "Flexible/Bloqueado",
         "isProtectedCapital": true
       }
@@ -37,7 +26,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "2.01%~16.2%",
+        "APR": "1.98%~16.2%",
         "duration": "Flexible/Bloqueado",
         "isProtectedCapital": true
       }
@@ -59,7 +48,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.61%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
+        "APR": "1.6%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
         "duration": "Flexible",
         "isProtectedCapital": true
       },
@@ -83,17 +72,6 @@
     ]
   },
   {
-    "name": "GLM",
-    "items": [
-      {
-        "name": "Simple Earn",
-        "APR": "4.09%",
-        "duration": "Flexible",
-        "isProtectedCapital": true
-      }
-    ]
-  },
-  {
     "name": "SOL",
     "items": [
       {
@@ -111,12 +89,12 @@
     ]
   },
   {
-    "name": "COS",
+    "name": "GMT",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "3.05%~11.9%",
-        "duration": "Flexible/Bloqueado",
+        "APR": "14.84%",
+        "duration": "Flexible",
         "isProtectedCapital": true
       }
     ]
@@ -126,7 +104,18 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "13.2%",
+        "APR": "13.14%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "SLF",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "8.41%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -144,22 +133,22 @@
     ]
   },
   {
-    "name": "AUCTION",
+    "name": "WOO",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.36%",
-        "duration": "Flexible",
+        "APR": "0.15%~3.5%",
+        "duration": "Flexible/Bloqueado",
         "isProtectedCapital": true
       }
     ]
   },
   {
-    "name": "POWR",
+    "name": "QI",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "4.54%",
+        "APR": "0.57%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
