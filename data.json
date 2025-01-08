@@ -4,7 +4,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "10.18%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
+        "APR": "10.19%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -15,19 +15,8 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "4.3%~10.05%",
+        "APR": "4.3%~9.9%",
         "duration": "Flexible/Bloqueado",
-        "isProtectedCapital": true
-      }
-    ]
-  },
-  {
-    "name": "HIVE",
-    "items": [
-      {
-        "name": "Simple Earn",
-        "APR": "48.54%",
-        "duration": "Flexible",
         "isProtectedCapital": true
       }
     ]
@@ -37,9 +26,20 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.65%",
+        "APR": "1.66%",
         "duration": "Flexible",
         "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "BNB",
+    "items": [
+      {
+        "name": "Simple EarnMegadropBloquea tus BNB para ganar recompensas de Megadrop y APR de BNB.",
+        "APR": "0.05%~0.3%",
+        "duration": "Flexible/Bloqueado",
+        "isProtectedCapital": false
       }
     ]
   },
@@ -59,7 +59,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.51%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
+        "APR": "1.48%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
         "duration": "Flexible",
         "isProtectedCapital": true
       },
@@ -83,33 +83,33 @@
     ]
   },
   {
-    "name": "BNB",
-    "items": [
-      {
-        "name": "Simple EarnMegadropBloquea tus BNB para ganar recompensas de Megadrop y APR de BNB.",
-        "APR": "0.05%~0.3%",
-        "duration": "Flexible/Bloqueado",
-        "isProtectedCapital": false
-      }
-    ]
-  },
-  {
-    "name": "SXP",
+    "name": "HIVE",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "13.85%",
+        "APR": "48.42%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
     ]
   },
   {
-    "name": "AGLD",
+    "name": "GMT",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "13.71%",
+        "APR": "25.51%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "VANA",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "24.86%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -127,11 +127,11 @@
     ]
   },
   {
-    "name": "GMT",
+    "name": "STG",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "25.55%",
+        "APR": "12.96%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -171,33 +171,33 @@
     ]
   },
   {
-    "name": "VANA",
+    "name": "AGLD",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "25.03%",
+        "APR": "13.7%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
     ]
   },
   {
-    "name": "SCRT",
+    "name": "GLM",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.07%",
+        "APR": "9.49%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
     ]
   },
   {
-    "name": "ATA",
+    "name": "STORJ",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.13%",
+        "APR": "2.59%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
