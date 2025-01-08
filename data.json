@@ -4,7 +4,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "10.2%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
+        "APR": "10.24%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -15,7 +15,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "4.3%~10.09%",
+        "APR": "4.3%~10.06%",
         "duration": "Flexible/Bloqueado",
         "isProtectedCapital": true
       }
@@ -26,7 +26,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.68%",
+        "APR": "1.69%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -72,11 +72,28 @@
     ]
   },
   {
+    "name": "SOL",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "1.59%~5.6%",
+        "duration": "Flexible/Bloqueado",
+        "isProtectedCapital": true
+      },
+      {
+        "name": "Stake de SOL",
+        "APR": "8.44%",
+        "duration": "Bloqueado",
+        "isProtectedCapital": false
+      }
+    ]
+  },
+  {
     "name": "EURI",
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.9%",
+        "APR": "1.78%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -87,7 +104,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "38.59%",
+        "APR": "38.01%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -98,7 +115,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "25.56%",
+        "APR": "25.44%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -109,7 +126,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "25.95%",
+        "APR": "25.73%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -131,7 +148,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "12.46%",
+        "APR": "10.8%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -142,7 +159,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1%~20.91%",
+        "APR": "1%~20.89%",
         "duration": "Flexible/Bloqueado",
         "isProtectedCapital": true
       }
@@ -164,7 +181,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "2.02%~19.9%",
+        "APR": "2.49%~19.9%",
         "duration": "Flexible/Bloqueado",
         "isProtectedCapital": true
       }
@@ -175,7 +192,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "13.8%",
+        "APR": "13.81%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -186,7 +203,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "5.63%",
+        "APR": "5.64%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
@@ -197,7 +214,7 @@
     "items": [
       {
         "name": "Simple Earn",
-        "APR": "1.63%",
+        "APR": "1.18%",
         "duration": "Flexible",
         "isProtectedCapital": true
       }
