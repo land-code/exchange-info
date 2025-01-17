@@ -1,1 +1,223 @@
-[]
+[
+  {
+    "name": "USDC",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "10.08%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "USDT",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "3%~9.63%",
+        "duration": "Flexible/Bloqueado",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "FDUSD",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "1.78%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "BNB",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "0.12%~0.3%",
+        "duration": "Flexible/Bloqueado",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "BTC",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "0.28%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "ETH",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "1.6%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      },
+      {
+        "name": "Stake de ETH",
+        "APR": "2.61%",
+        "duration": "Bloqueado",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "SOL",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "1.59%~5.6%",
+        "duration": "Flexible/Bloqueado",
+        "isProtectedCapital": true
+      },
+      {
+        "name": "Stake de SOL",
+        "APR": "9.05%",
+        "duration": "Bloqueado",
+        "isProtectedCapital": false
+      }
+    ]
+  },
+  {
+    "name": "EURI",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "10.87%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "HIVE",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "20.05%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "ONT",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "2.65%~13.5%",
+        "duration": "Flexible/Bloqueado",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "VANA",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "24.16%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "CATI",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "1.24%~20%",
+        "duration": "Flexible/Bloqueado",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "LSK",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "9.55%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "IOST",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "1%~22.36%",
+        "duration": "Flexible/Bloqueado",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "AVA",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "6.2%MáximoLos importes suscritos dentro del nivel determinado reúnen los requisitos para la APR máxima, en la cual se incluye la APR por niveles adicional.",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "OM",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "2.7%~19.9%",
+        "duration": "Flexible/Bloqueado",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "GMT",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "21.25%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "SEI",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "2%~4.2%",
+        "duration": "Flexible/Bloqueado",
+        "isProtectedCapital": true
+      }
+    ]
+  },
+  {
+    "name": "CGPT",
+    "items": [
+      {
+        "name": "Simple Earn",
+        "APR": "3.97%",
+        "duration": "Flexible",
+        "isProtectedCapital": true
+      }
+    ]
+  }
+]
